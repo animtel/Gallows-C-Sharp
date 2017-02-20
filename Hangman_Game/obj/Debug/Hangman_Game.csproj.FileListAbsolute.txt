@@ -1,0 +1,14 @@
+C:\Users\Wonde\Documents\Visual Studio 2008\Projects\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.exe
+C:\Users\Wonde\Documents\Visual Studio 2008\Projects\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.pdb
+C:\Users\Wonde\Documents\Visual Studio 2008\Projects\Hangman_Game\Hangman_Game\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wonde\Documents\Visual Studio 2008\Projects\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.exe
+C:\Users\Wonde\Documents\Visual Studio 2008\Projects\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.pdb
+C:\Users\Wonde\Desktop\Hangman Solution\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.exe
+C:\Users\Wonde\Desktop\Hangman Solution\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.pdb
+C:\Users\Wonde\Desktop\Hangman Solution\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.exe
+C:\Users\Wonde\Desktop\Hangman Solution\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.pdb
+C:\Users\Wonde\Desktop\Hangman Solution\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lld\Desktop\Новая папка\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.exe
+C:\Users\lld\Desktop\Новая папка\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.pdb
+C:\Users\lld\Desktop\Новая папка\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.exe
+C:\Users\lld\Desktop\Новая папка\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.pdb
