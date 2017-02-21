@@ -56,6 +56,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Word.cs" />
     <Compile Include="Words.cs" />
+    <Compile Include="WordsFromFile.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="HangmanClassDiagram.cd" />

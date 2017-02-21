@@ -66,15 +66,17 @@ namespace Hangman_Game
         /// </summary>
         private static string playGame()
         {
-            Words words = new Words();
-            Word pickedWord = words.Pick;
-            PlayHangman playHangman = new PlayHangman();
-            playHangman.PickedWord = pickedWord;
-            ConsoleKeyInfo yesNo = new ConsoleKeyInfo();
-            for (int i = 0; i < pickedWord.WordLength; i++)
-            {
-                Console.Write(" _ ");
-            }
+            
+                Words words = new Words();
+                Word pickedWord = words.Pick;
+                PlayHangman playHangman = new PlayHangman();
+                playHangman.PickedWord = pickedWord;
+                ConsoleKeyInfo yesNo = new ConsoleKeyInfo();
+                for (int i = 0; i < pickedWord.WordLength; i++)
+                {
+                    Console.Write(" _ ");
+                }
+            
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
