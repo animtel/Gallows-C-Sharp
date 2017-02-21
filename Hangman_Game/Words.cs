@@ -22,7 +22,7 @@ namespace Hangman_Game
         /// </summary>
         public Words()
         {
-            this.Add(new Word() { Content = "РАБОТЯГА" });
+            this.Add(new Word() { Content = "LOL" });
             //this.Add(new Word() { Content = "THREE" });
             //this.Add(new Word() { Content = "VACATION" });
             //this.Add(new Word() { Content = "INFORMATION" });
