@@ -1,12 +1,4 @@
-﻿//|---------------------------------------------------------------|
-//|                       HANGMAN GAME                            |
-//|         Developed by Yewondwossen Tadesse(Wonde)              |  
-//|                                 Version 1.0.0.0               |
-//|                                 Copyright ©  2010             |
-//|---------------------------------------------------------------|
-//|                       HANGMAN GAME                            |
-//|---------------------------------------------------------------|
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 
